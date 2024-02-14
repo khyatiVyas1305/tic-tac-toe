@@ -1,0 +1,14 @@
+.reset{
+    display: block;
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+    width: 150px;
+    height: 40px;
+    background-color: #F06060;
+    color: whitesmoke;
+    font-family: 'Quicksand','Roboto','sans-serif';
+    font-weight: bolder;
+    font-size: 16px;
+    margin: 30px auto;
+}

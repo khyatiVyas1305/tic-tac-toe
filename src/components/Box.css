@@ -1,0 +1,26 @@
+.box{
+    background-color: #252526;
+    border: none;
+    border-radius: 13%;
+    box-shadow: 0px 0px 10px #304673;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    font-family: 'Quicksand','Roboto',sans-serif;
+    font-size: 60px;
+    font-weight: bolder;
+    margin: 15px;
+}
+
+.box:hover{
+    box-shadow: 0px 0px 20px #4d6dae;
+
+}
+
+.x{
+    color: #6ACFC9;
+}
+
+.o{
+    color: #F3B562;
+}
